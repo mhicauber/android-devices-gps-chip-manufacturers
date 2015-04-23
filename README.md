@@ -1,9 +1,10 @@
 # android-devices-gps-chip-manufacturers
 Listing Android devices and GPS chips that can be found on it.
 
-GPS Info Column can be either a standalone gps chip module name, cpu name when embedded module, or wwhatever information we're able to gather.
+I'm working on some gps tracking apps on Android, and precision is really a matter of what kind of gps chip you have into your mobile device.
+This information is pretty tedious to find, so here is what I found so far for the devices I'm using. Feel free to amend this list.
 
-Feel free to amend this list.
+GPS Info Column can be either a standalone gps chip module name, cpu name when embedded module, or wwhatever information we're able to gather.
 
 Manufacturer    |   Commercial Name     |   Technical Name  |   GPS info
 -------------   |   -------------       |   --------------  | -------------
